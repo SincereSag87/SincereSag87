@@ -1,10 +1,30 @@
 # Raymond Wannamaker Jr.
 
-## AI Engineer | Software Developer | Applied AI Systems
+### AI Engineer | Software Developer | Applied AI Systems
 
-I build practical AI systems with a focus on local LLMs, RAG, agentic workflows, evaluation, observability, APIs, and client-testable demos.
+I build production-oriented AI applications focused on **LLMs, RAG, AI agents, evaluation, observability, APIs, and safe automation**.
 
-My background includes software development, application support, SQL, automation, C#, Java, Python, FastAPI, and modern AI engineering workflows.
+My work goes beyond basic chatbots. I build systems with structured outputs, retrieval, tool calling, policy enforcement, human approval, failure recovery, testing, and measurable evaluation.
+
+[![Python](https://img.shields.io/badge/Python-AI%20Engineering-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-APIs-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-black)](https://ollama.com/)
+[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+---
+
+### What I specialize in
+
+`LLM Applications` · `Retrieval-Augmented Generation` · `AI Agents` · `Tool Calling` · `Human-in-the-Loop` · `AI Evaluation` · `FastAPI` · `Gradio` · `Ollama` · `ChromaDB` · `Docker`
+
+### Portfolio at a glance
+
+| Project | Engineering Focus |
+|---|---|
+| **SupportOps Agent** | Agentic workflows, tool calling, policy enforcement, human approval, auditability |
+| **DocIntel RAG** | Document ingestion, embeddings, semantic retrieval, trusted citations, RAG evaluation |
+| **LocalAI Research Assistant** | Web research, structured generation, model comparison, evaluation, observability |
 
 ---
 
