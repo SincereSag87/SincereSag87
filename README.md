@@ -30,7 +30,7 @@ My work goes beyond basic chatbots. I build systems with structured outputs, ret
 
 ## Featured AI Engineering Projects
 
-### LocalAI Research Assistant
+### IntelliDocs AI
 
 Local-first AI research platform for webpage ingestion, structured research, model comparison, evaluation, FastAPI, Gradio, benchmarking, and observability.
 
@@ -44,7 +44,7 @@ Local-first AI research platform for webpage ingestion, structured research, mod
 - Request tracing and observability
 - CI and v1.0.0 release
 
-[View Repository](https://github.com/SincereSag87/local-ai-research-assistant)
+[View Repository](https://github.com/SincereSag87/intellidocs-ai)
 
 ---
 
